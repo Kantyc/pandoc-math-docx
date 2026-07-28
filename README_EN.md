@@ -1,5 +1,7 @@
 # pandoc-math-docx (English)
 
+> 📖 **中文**: [README.md](README.md)
+
 A [Claude Code](https://claude.com/claude-code) skill that generates Microsoft Word documents (`.docx`) containing **native, editable math equations** (OMML format, not images) from Markdown + LaTeX input via [Pandoc](https://pandoc.org/).
 
 ## What it does

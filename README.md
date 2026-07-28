@@ -1,5 +1,7 @@
 # pandoc-math-docx 技能
 
+> 📖 **English**: [README_EN.md](README_EN.md)
+
 用 **Pandoc** 生成包含数学公式的 Word 文档（`.docx`）。公式是**原生可编辑的 Word 方程**（OMML 格式），不是图片。
 
 ## 功能
